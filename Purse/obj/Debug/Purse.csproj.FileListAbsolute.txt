@@ -1,1 +1,2 @@
 C:\Users\Oleh\Desktop\5\Purse\Purse\bin\Debug\Purse.exe.config
+D:\purse123\Purse\bin\Debug\Purse.exe.config
